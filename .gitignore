@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Generated spectrum outputs
+spectrum_*.csv
+spectrum_*.png
